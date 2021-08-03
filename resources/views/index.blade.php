@@ -9,11 +9,10 @@
     <title>Laravel</title>
 </head>
 <body>
-    
-
+  
     <app-root></app-root>
     <script src="{{asset('/js/runtime.bc4ce951e505b9e7d62d.js')}}" defer></script>
     <script src="{{asset('/js/polyfills.f161bf4a91cb3d66b739.js')}}" defer></script>
-    <script src="{{asset('/js/main.755b2456acbf67f2b63c.js')}}" defer></script>
+    <script src="{{asset('/js/main.b15fcbf7cc1795dab39b.js')}}" defer></script>
 </body>
 </html>
